@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tummy Talk</string>
+
+    <string name="channel_name">Movement counter</string>
+    <string name="channel_description">Always-on counter used to log baby movements with one tap.</string>
+    <string name="reminder_channel_name">Hourly reminders</string>
+    <string name="reminder_channel_description">A gentle nudge during waking hours in case logging was forgotten.</string>
+
+    <string name="notification_loading">Starting the counter</string>
+    <string name="today">Today</string>
+    <string name="this_hour">This hour</string>
+    <!-- Notification button she taps ten times a session: plain words, not app jargon.
+         Deliberately "movement" and not "kick", because rolls, jabs and swishes count too. -->
+    <string name="action_kick">Baby moved</string>
+    <!-- Used once she has given the baby a name in Settings. -->
+    <string name="action_kick_named">%1$s moved</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_snooze">Snooze 30 min</string>
+    <string name="session_progress">Session %1$d of %2$d</string>
+    <string name="session_idle">No session running</string>
+    <string name="goal_reached">Session goal of %1$d reached</string>
+
+    <string name="reminder_title">Reminder to log movements</string>
+    <string name="reminder_text">Nothing logged since %1$s. Tap to add any you felt.</string>
+    <string name="reminder_big_text">Nothing has been logged since %1$s. This is only a nudge in case it slipped your mind — a quiet hour is completely normal, as babies sleep for 20 to 40 minutes at a time.</string>
+
+    <string name="export_csv">Export log</string>
+</resources>
