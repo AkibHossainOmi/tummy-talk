@@ -8,6 +8,7 @@ captures/
 .externalNativeBuild
 .cxx
 *.keystore
+*.jks
 keystore.properties
 
 # Built APKs handed to the phone; regenerate with gradlew assembleRelease
